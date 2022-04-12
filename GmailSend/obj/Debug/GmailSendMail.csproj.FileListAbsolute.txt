@@ -1,0 +1,10 @@
+C:\Users\220\source\repos\GmailSendMail\GmailSendMail\bin\Debug\GmailSendMail.exe.config
+C:\Users\220\source\repos\GmailSendMail\GmailSendMail\bin\Debug\GmailSendMail.exe
+C:\Users\220\source\repos\GmailSendMail\GmailSendMail\bin\Debug\GmailSendMail.pdb
+C:\Users\220\source\repos\GmailSendMail\GmailSendMail\obj\Debug\GmailSendMail.csprojAssemblyReference.cache
+C:\Users\220\source\repos\GmailSendMail\GmailSendMail\obj\Debug\GmailSendMail.Form1.resources
+C:\Users\220\source\repos\GmailSendMail\GmailSendMail\obj\Debug\GmailSendMail.Properties.Resources.resources
+C:\Users\220\source\repos\GmailSendMail\GmailSendMail\obj\Debug\GmailSendMail.csproj.GenerateResource.cache
+C:\Users\220\source\repos\GmailSendMail\GmailSendMail\obj\Debug\GmailSendMail.csproj.CoreCompileInputs.cache
+C:\Users\220\source\repos\GmailSendMail\GmailSendMail\obj\Debug\GmailSendMail.exe
+C:\Users\220\source\repos\GmailSendMail\GmailSendMail\obj\Debug\GmailSendMail.pdb
